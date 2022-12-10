@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rima
-- 👀 I’m interested in embroidery and yoga
-- 🌱 I’m currently learning project management
+
 
 
 <!---
